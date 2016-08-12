@@ -1,11 +1,11 @@
-React Props Demo
+React State Demo
 ======================
 
-Pass value to other component as props.
+Use state in react component.
 
 ```
 npm install
 npm start
 ```
 
-Then visit <http://localhost:8080/webpack-dev-server/>, you will see `Hello world` on the page.
+Then visit <http://localhost:8080/webpack-dev-server/>.
